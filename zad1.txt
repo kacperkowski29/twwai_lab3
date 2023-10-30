@@ -1,0 +1,2 @@
+
+Aplikacja wydrukowała w konsoli komunikat "new connection" za pomocą mechanizmu obsługi zdarzeń (event handling) w Node.js.
